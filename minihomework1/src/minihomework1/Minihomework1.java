@@ -15,7 +15,7 @@ public class Minihomework1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Umair Ashraf 2022575");
+        System.out.println("Umair Ashraf 2022575 has completed his First Homework Succesfully");
     }
     
 }
